@@ -8,8 +8,18 @@
 import SwiftUI
 
 struct TabManagerView: View {
+    @StateObject var viewModel = MainViewModel()
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        TabView {
+            HomeView()
+                .tabItem { Image(systemName: "house.fill") }
+            SearchView()
+                .tabItem { Image(systemName: "magnifyingglass") }
+            FavoriteView()
+                .tabItem { Image(systemName: "heart.fill") }
+        }
+        .environmentObject(viewModel)
     }
 }
 

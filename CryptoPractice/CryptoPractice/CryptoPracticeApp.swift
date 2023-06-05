@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoPracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabManagerView()
         }
     }
 }

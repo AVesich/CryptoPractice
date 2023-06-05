@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ACBE9CBB-00F6-463E-88AD-1A3771150C6B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B45D4891-3750-4626-8EA8-8AD98858FF2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Helper Files/CoinLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "downloadCoinHistory(coinID:length:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA5DE0A0-C7AA-4573-8739-60D84E108C04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Helper Files/CoinLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "downloadCoinHistory(coinID:length:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA5DE0A0-C7AA-4573-8739-60D84E108C04 - daa47adc40805a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in CryptoPractice.CoinLoader.downloadCoinHistory(coinName: Swift.String, interval: CryptoPractice.CoinHistoryResponse.historyInterval, completion: (Swift.Array&lt;CryptoPractice.StampedCoinValue&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/austin/Documents/Practice/CryptoPractice/CryptoPractice/Helper%20Files/CoinLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "DA5DE0A0-C7AA-4573-8739-60D84E108C04 - 7a6bbf0ef52bdc56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in CryptoPractice.CoinLoader.downloadCoinHistory(coinID: Swift.String, interval: CryptoPractice.CoinHistoryResponse.historyInterval, completion: (Swift.Array&lt;CryptoPractice.StampedCoinValue&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CryptoPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/austin/Documents/Practice/CryptoPractice/CryptoPractice/Helper%20Files/CoinLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EB83D3A-9915-4319-AA38-FEAEC6630E4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Views/LineChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1CE4BAD-7B14-4A72-97E3-37E2D68DEF77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Helper Files/CoinLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "downloadCoinHistory(coinID:length:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1CFE395-CD3D-423B-86B3-DAE7CF645D7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Helper Files/CoinLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "downloadCoinHistory(coinID:length:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98A5EEDA-E6C8-4837-8D91-0E973E088C71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1805CF4-4456-4878-9623-8D49F623B111"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoPractice/ViewModels/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "downloadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1805CF4-4456-4878-9623-8D49F623B111 - 76593e57985c4dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;CryptoPractice.Coin&gt;) -&gt; () in CryptoPractice.MainViewModel.downloadData() -&gt; ()"
+                  moduleName = "CryptoPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/austin/Documents/Practice/CryptoPractice/CryptoPractice/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "A1805CF4-4456-4878-9623-8D49F623B111 - 76593e57985c4dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;CryptoPractice.Coin&gt;) -&gt; () in CryptoPractice.MainViewModel.downloadData() -&gt; ()"
+                  moduleName = "CryptoPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/austin/Documents/Practice/CryptoPractice/CryptoPractice/ViewModels/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
